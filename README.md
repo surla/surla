@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello. 👋
 
-My name is Joseph Surla and I am a developer currently living in Japan.
+I'm Joseph Surla and I am a software developer currently living in Japan. 🇯🇵
+I love to creating things with code. 
 
 <!--
 **surla/surla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
