@@ -1,6 +1,6 @@
 ### Hello. 👋
 
-I'm Joseph Surla and I am a software developer currently living in Japan. 🇯🇵
+I'm Joseph Surla.
 I love to creating things with code. 
 
 <!--
