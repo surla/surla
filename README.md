@@ -3,6 +3,9 @@
 I'm Joseph Surla.
 I love to creating things with code. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surla)](https://github.com/surla)
+
+
 <!--
 **surla/surla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
